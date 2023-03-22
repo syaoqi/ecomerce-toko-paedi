@@ -1,0 +1,33 @@
+body{
+    background-image:  url(a.jpg) ;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+/* .row{
+    margin-bottom: 20px;
+} */
+
+.jumbotron{
+    padding:1px;
+    background:rgb(27, 26, 39);
+    color:white;
+}
+nav{
+	font-family: sans-serif;
+}
+h1{
+font-size: 20px;
+padding-top:30px;
+padding-bottom: 30px;
+padding-left: 200px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+img{
+    padding-left:140px ;
+
+}
+.button{
+padding-left:100px ;
+}
